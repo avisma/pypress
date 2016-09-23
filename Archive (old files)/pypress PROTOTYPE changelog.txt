@@ -1,0 +1,30 @@
+-------------------------12/6/2015 @ 8:46 PM------------------------------
+=Created a copy of 'pypress(alpha)-20151205.py'
+=Added Global Variables to denote Team Color (Including button fill color)
+=Cleaned up shell output
+=Added a finishing summary of scores (As part of output cleanup)
+=Changed GraphWin name from 'pypress' to 'PyPress'
+--REMOVED-- Word verification, to prevent errors in code.
+
+
+
+-------------------------12/6/2015 @ 11:36 PM------------------------------
+
+=Copied 'pypress PROTOTYPE Monday.py', renamed 'pypress PROTOTYPE Monday backup.py'
+
+=Simplified isClicked box checking within for loop
+=created function drawBoard()
+
+=created function initTiles()
+
+
+
+-------------------------12/6/2015 @ 11:55 PM------------------------------
+
+=implemented wordlist verification
+
+-------------------------12/7/2015 @ 1:02 PM-------------------------------
+=Added a wait time between turns, in 'turnSwitch()'
+=Added comment on Line 88
+=Marked Legacy code on Line 130, and listed reason why it might be kept.
+=Marked a potentially unneeded variable on Line 134 ('submit = False'

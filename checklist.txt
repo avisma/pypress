@@ -1,0 +1,20 @@
+Finished:
+= draw board tiles
+= draw chosen letters
+= define check submitted word (lookup in dictionary file)
+= define game end
+= define game win
+= remove chosen letters on button click [implemented reset button]
+= implement turns (player 1, player 2)
+= defined unprotected tiles
+= graphical game win
+
+To do:
++ implement game win music
++ define protected tiles
++ board timeline
++ 
++ create game intro (ask for player names, explain rules)
+
+Abandoned:
+x draw buttons based on chosen letters
